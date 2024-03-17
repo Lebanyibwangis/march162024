@@ -1,0 +1,5 @@
+---
+# tasks file for roles/my_roles
+- name: print something 
+  debug:
+      msg: "this is a test"
